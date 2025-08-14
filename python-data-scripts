@@ -1,1 +1,20 @@
+# Python Data Scripts
+
+## Descrição
+Scripts em **Python** para manipulação, limpeza e análise básica de dados, aplicando conceitos práticos de programação.
+
+## Funcionalidades
+- Leitura e tratamento de arquivos CSV  
+- Filtragem e organização de dados  
+- Automação simples de tarefas
+
+## Tecnologias
+- Python  
+
+## Como Rodar
+1. Clone o repositório: `git clone https://github.com/IsabelaMsDev/python-data-scripts.git`  
+2. Execute os scripts com Python 3: `python nome_do_script.py`  
+
+## Autor
+**Isabela MsDev** – Desenvolvedora Full-Stack em formação
 
