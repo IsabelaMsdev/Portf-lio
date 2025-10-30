@@ -1,16 +1,31 @@
-# React + Vite
+# Portfólio - IsabelaMsDev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo(a) ao meu portfólio! Aqui você encontra meus projetos acadêmicos e mini-projetos, desenvolvidos enquanto estudo **Análise e Desenvolvimento de Sistemas**, com foco em **Full-Stack Development**.
 
-Currently, two official plugins are available:
+## Projetos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Landing Page Responsiva
+Projeto acadêmico de **HTML, CSS e JavaScript**. Criação de uma página moderna e interativa, com design responsivo para diferentes telas.  
+[Ver repositório](https://github.com/IsabelaMsDev/landing-page-responsive)
 
-## React Compiler
+### Python Data Scripts
+Scripts em **Python** para manipulação, limpeza e análise básica de dados, aplicando conceitos de programação prática.  
+[Ver repositório](https://github.com/IsabelaMsDev/python-data-scripts)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Exercícios POO
+Mini-projetos aplicando **Programação Orientada a Objetos (POO)**: classes, objetos, herança e encapsulamento.  
+[Ver repositório](https://github.com/IsabelaMsDev/poo-exercises)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tecnologias
+- HTML5 | CSS3 | JavaScript (ES6+)  
+- Python | POO | SQL (básico)  
+- Git/GitHub | Versionamento de código  
+- Lógica de Programação | Boas práticas de segurança digital
+
+---
+
+## Contato
+📧 isabelamarcelina25@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
