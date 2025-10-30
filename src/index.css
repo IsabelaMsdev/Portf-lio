@@ -1,0 +1,18 @@
+/* index.css - APENAS CSS */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CONFIGURAÇÕES BASE */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #ffffff;
+  color: #1f2937;
+}
+
+/* Sombra customizada para fundo claro (shadow-card) */
+.shadow-card {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05), 0 4px 6px rgba(0, 0, 0, 0.03); 
+}
